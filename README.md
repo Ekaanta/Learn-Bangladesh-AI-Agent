@@ -1,6 +1,9 @@
-﻿# Bangladesh AI Agent<img width="957" height="790" alt="image" src="https://github.com/user-attachments/assets/34577f41-1ae2-4b78-8b8b-b6007da09be1" />
+<img width="957" height="790" alt="image" src="https://github.com/user-attachments/assets/34577f41-1ae2-4b78-8b8b-b6007da09be1" />
 
 
+
+
+# Bangladesh AI Agent
 An intelligent AI-powered assistant that answers questions about Bangladesh — hospitals, educational institutions, restaurants, and general knowledge — using LangChain, Groq LLM, SQLite databases, and a FastAPI web interface.
 
 ---
